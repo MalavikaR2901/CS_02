@@ -1,6 +1,7 @@
 This is the **Task 02** of my internship at **Elevate Labs** .
 
 **Objective**
+
 Identify phishing characteristics in a suspicious email sample.
 
 **Tools I used**
